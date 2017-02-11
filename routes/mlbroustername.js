@@ -21,23 +21,13 @@ var router = express.Router();
 
 var Client = require('../models/mlb');
 
-// router.route('/')
-//   .get((req, res) => {
-//     Client.find({}, (err, trees) => {
-//         if(err) {
-//           res.status(400).send(err);
-//         } else {
-//           res.send(trees);
-//         }
-//       });
-//   })
 router.route('/')
     .get((req, res) => {
         Client.find({}, (err, trees) => {
             if (err) {
                 res.status(400).send(err);
             } else {
-                res.send(trees);
+                res.send('trees');
             }
         });
     })

@@ -24,17 +24,19 @@ var Client = require('../models/mlb');
 
 router.route('/')
     .get((req, res) => {
+        
+        var options = { method: 'GET',
+        url: 'http://mlb.mlb.com/lookup/named.roster_all.bam',
+        qs: { team_id: '\'141\'' },
+        headers:
+        { 'postman-token': 'e24805c9-2d42-32b5-0ac3-dce901cf743a',
+            'cache-control': 'no-cache',
+            'content-type': 'application/x-www-form-urlencoded' },
+        form: { imageurl: 't', like: 'g', dislike: 's' } };
 
-        // Client.find({}, (err, trees) => {
-        //     if (err) {
-        //         res.status(400).send(err);
-        //     } else {
-        //         res.send('trees');
-        //     }
-        // });
-
-        res.send('trees');
-      
+        request(options, function (err, response, body) {
+            (err) ? response.status(400).send(err) : res.send(body);
+        });
     })
 
 router.route('/:id')

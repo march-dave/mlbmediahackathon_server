@@ -22,6 +22,9 @@ var router = express.Router();
 var request = require("request");
 var Client = require('../models/mlb');
 
+var xml2js = require('xml2js'); // XML2JS Module
+var parser = new xml2js.Parser();
+
 router.route('/')
     .get((req, res) => {
         
@@ -35,11 +38,16 @@ router.route('/')
         form: { imageurl: 't', like: 'g', dislike: 's' } };
 
         request(options, function (err, response, body) {
-            (err) ? response.status(400).send(err) : res.send(body);
+            var ret = JSON.stringify(body);
+            (err) ? response.status(400).send(err) :  parser.parseString( res.send(ret) )  
+            // (err) ? response.status(400).send(err) :  parser.parseString( ret, function(error, result) {
+            //     console.log(result);
+            //     console.log('Done');                
+            // })  
         });
     })
 
-router.route('/:id')
+router.route('/:id')    
     .get((req, res) => {
         Client.findById(req.params.id, (err, client) => {
             res.status(err ? 400 : 200).send(err || client);

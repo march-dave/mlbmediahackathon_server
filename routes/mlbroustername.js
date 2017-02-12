@@ -1,19 +1,3 @@
-// var request = require("request");
-//
-// var options = { method: 'GET',
-//   url: 'http://mlb.mlb.com/lookup/named.roster_all.bam',
-//   qs: { team_id: '\'141\'' },
-//   headers:
-//    { 'postman-token': 'e24805c9-2d42-32b5-0ac3-dce901cf743a',
-//      'cache-control': 'no-cache',
-//      'content-type': 'application/x-www-form-urlencoded' },
-//   form: { imageurl: 't', like: 'g', dislike: 's' } };
-//
-// request(options, function (error, response, body) {
-//   if (error) throw new Error(error);
-//
-//   console.log(body);
-// });
 'use strict';
 
 var express = require('express');

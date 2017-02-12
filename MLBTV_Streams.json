@@ -1,0 +1,1730 @@
+[
+ {
+   "GUID": "76f8d4ec650f7a89cb29f7086b1f40c5",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:17:48",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 48307
+ },
+ {
+   "GUID": "708fd54f927adbc0ce45b8629379524e",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:58:05",
+   "Streaming_Device_Platform": "AMAZON",
+   "Determined_Location_Zip_Code": 95122
+ },
+ {
+   "GUID": "e5428b508044507a0d768d1451e1d5c4",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:42:47",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 98168
+ },
+ {
+   "GUID": "7b98373e3a660f99129d21bb8c5538d0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:42:33",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 30309
+ },
+ {
+   "GUID": "ce9bee151cf29ac45c94cad3508219ae",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:47:03",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 10020
+ },
+ {
+   "GUID": "5832db87bbc6dc036fc6c00ebb1aac50",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:02:38",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 18071
+ },
+ {
+   "GUID": "a3a62871f667f90f9efc5d3a11970445",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:28:49",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 97005
+ },
+ {
+   "GUID": "c29dcd6ced229fe2bec48c5c88711714",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:09:02",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "a3a62871f667f90f9efc5d3a11970445",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:32:57",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 97005
+ },
+ {
+   "GUID": "c29dcd6ced229fe2bec48c5c88711714",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:21:10",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "c29dcd6ced229fe2bec48c5c88711714",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:18:07",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "24e33b1b56f0c566a582df082042987c",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:01:38",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 66217
+ },
+ {
+   "GUID": "761959949bcb6380292eff9d60b360dd",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:02:26",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 32812
+ },
+ {
+   "GUID": "c29dcd6ced229fe2bec48c5c88711714",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:01:50",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "568f3dde12c4a99d7e36cff57f3b4f04",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:55:28",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "761959949bcb6380292eff9d60b360dd",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:25:13",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 32812
+ },
+ {
+   "GUID": "a7ee6c2c61809fe1c7645ba7c20cbe80",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 20:38:47",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 60067
+ },
+ {
+   "GUID": "143370b659c07abf2565ea0a28a3cee6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:52:42",
+   "Streaming_Device_Platform": "XBOX1",
+   "Determined_Location_Zip_Code": 45212
+ },
+ {
+   "GUID": "01018c4d456a28d97db1b50fb359f227",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:03:39",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 89512
+ },
+ {
+   "GUID": "52cc4d6deebae18edb629058e6bc2ec3",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:11:05",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 20008
+ },
+ {
+   "GUID": "5aca0c653095f3c55c0ba448c729d7fd",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:37:18",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 33908
+ },
+ {
+   "GUID": "143370b659c07abf2565ea0a28a3cee6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:16:00",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 41018
+ },
+ {
+   "GUID": "d0948dbda483f19d592f683f38e8ea55",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:45:51",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 95757
+ },
+ {
+   "GUID": "aa26c28958dc829e4062f9e9717b03f4",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:21:41",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 10590
+ },
+ {
+   "GUID": "81bd9f3becec74cb5f4697d65b8d0848",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:56:18",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 33418
+ },
+ {
+   "GUID": "6aef1f1c4d955dcd1f3948083488157e",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:00:48",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 57107
+ },
+ {
+   "GUID": "b9cb46e473f5ec9edf4ecba9779a8104",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:23:55",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 6241
+ },
+ {
+   "GUID": "c07ebdfd13d3cf8096dfef846ebf1c22",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 20:25:48",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 92025
+ },
+ {
+   "GUID": "28c6cc1ef9a4a7c54ae52c2317f55c19",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:11:13",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 10020
+ },
+ {
+   "GUID": "3cf2f74337df9d83d5072bfa4fa3af98",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:05:16",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 98168
+ },
+ {
+   "GUID": "24d967c5c281b8d1ddf133702d675934",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:36:18",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 98338
+ },
+ {
+   "GUID": "62a780e8ba4b3c8847f4d81ceba66105",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:52:42",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 2653
+ },
+ {
+   "GUID": "c5558cab33cf5184b31b7309b6de278b",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:57:08",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 33326
+ },
+ {
+   "GUID": "f171373e602ef2d190cc75fbab8fbac4",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:55:10",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 61820
+ },
+ {
+   "GUID": "0ec2c143017e09933b1811b8d0d00a38",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:30:05",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 2118
+ },
+ {
+   "GUID": "cdbd7e5cde297776c31502b1fad40ee32b2cd5d81eb64eb7e24dce62c72b86d17bfcc2b1bf38e03201e9a5b0dc5c1bf6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:43:39",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 63026
+ },
+ {
+   "GUID": "3f96aa7b7f713b76cc022e5960f6a18b",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 20:51:20",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 68313
+ },
+ {
+   "GUID": "68c9af415ec3fdfd5727c8b8c47da5f6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:41:16",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 7840
+ },
+ {
+   "GUID": "3f96aa7b7f713b76cc022e5960f6a18b",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 20:51:14",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 68313
+ },
+ {
+   "GUID": "d5e2a5a7e6a106f3e2f285273038450b",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:48:39",
+   "Streaming_Device_Platform": "HTML5_SONY",
+   "Determined_Location_Zip_Code": 60608
+ },
+ {
+   "GUID": "13fe51958b6d5fe05ed8f4d14c2b0259",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:13:10",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 95828
+ },
+ {
+   "GUID": "65a5a945a3526aeb2ffa5dff6277dff0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:53:46",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 53406
+ },
+ {
+   "GUID": "13fe51958b6d5fe05ed8f4d14c2b0259",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:06:36",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 95828
+ },
+ {
+   "GUID": "13fe51958b6d5fe05ed8f4d14c2b0259",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:35:48",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 95828
+ },
+ {
+   "GUID": "13fe51958b6d5fe05ed8f4d14c2b0259",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:16:05",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 95828
+ },
+ {
+   "GUID": "b7cf206b42be4b7ad61fa02bb340d715",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:08:58",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 20026
+ },
+ {
+   "GUID": "10a02274dba5d23241804cb757180bd2",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:48:19",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 53188
+ },
+ {
+   "GUID": "b7cf206b42be4b7ad61fa02bb340d715",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:24:40",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 20026
+ },
+ {
+   "GUID": "13fe51958b6d5fe05ed8f4d14c2b0259",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:38:41",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 95828
+ },
+ {
+   "GUID": "13fe51958b6d5fe05ed8f4d14c2b0259",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:43:40",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 95828
+ },
+ {
+   "GUID": "b3eb3e60df30368893a3ccc0be39150a",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:36:52",
+   "Streaming_Device_Platform": "AMAZON",
+   "Determined_Location_Zip_Code": 98007
+ },
+ {
+   "GUID": "13fe51958b6d5fe05ed8f4d14c2b0259",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:38:20",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 95828
+ },
+ {
+   "GUID": "13fe51958b6d5fe05ed8f4d14c2b0259",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:35:57",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 95828
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:42:38",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 19133
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:08:23",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:24:24",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:01:14",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:28:17",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 19133
+ },
+ {
+   "GUID": "67e460f61031f53813d4a5b214331bb6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:33:29",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 92057
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:38:02",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 19133
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:53:50",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 19133
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:50:25",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 19133
+ },
+ {
+   "GUID": "a01f02be5dc5ca22f19a7c6b98095178",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:25:05",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 81501
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:45:02",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:16:16",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 19133
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:22:53",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 19133
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:46:45",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "9f267a2a453f1d75cf8e259ec1ac2ce0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:30:02",
+   "Streaming_Device_Platform": "HTML5_SONY",
+   "Determined_Location_Zip_Code": 55113
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:12:46",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:59:57",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 19133
+ },
+ {
+   "GUID": "1a4087d8ae97a353242d15d67c0de17f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:44:25",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 98168
+ },
+ {
+   "GUID": "840fc0febcefd451c957caff2be9bbd9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:30:59",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "dede424c5bff79280ae0abe3cc40f4fe",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:30:45",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 98203
+ },
+ {
+   "GUID": "c9435fb98886c667769dbb85978e274d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:02:27",
+   "Streaming_Device_Platform": "SAMSUNG",
+   "Determined_Location_Zip_Code": 87106
+ },
+ {
+   "GUID": "dede424c5bff79280ae0abe3cc40f4fe",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:18:55",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 98203
+ },
+ {
+   "GUID": "dede424c5bff79280ae0abe3cc40f4fe",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:18:28",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 98203
+ },
+ {
+   "GUID": "b7a130411b44e852d9370a434df14be3",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:10:05",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 80017
+ },
+ {
+   "GUID": "fb29dd10f6f33ebf0dd49a0dfb3c91d6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:44:48",
+   "Streaming_Device_Platform": "AMAZON",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "f8f944f2259f3979e38f39fefb0eeed9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:31:14",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER",
+   "Determined_Location_Zip_Code": 21811
+ },
+ {
+   "GUID": "f8f944f2259f3979e38f39fefb0eeed9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:19:08",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER",
+   "Determined_Location_Zip_Code": 21811
+ },
+ {
+   "GUID": "f8f944f2259f3979e38f39fefb0eeed9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:26:07",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER",
+   "Determined_Location_Zip_Code": 21811
+ },
+ {
+   "GUID": "f8f944f2259f3979e38f39fefb0eeed9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:31:37",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER",
+   "Determined_Location_Zip_Code": 21811
+ },
+ {
+   "GUID": "f8f944f2259f3979e38f39fefb0eeed9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:55:42",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER",
+   "Determined_Location_Zip_Code": 21811
+ },
+ {
+   "GUID": "f8f944f2259f3979e38f39fefb0eeed9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:20:50",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 21811
+ },
+ {
+   "GUID": "d5c50d12fb03c4da995ffb7ced3d7124",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:14:07",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 94601
+ },
+ {
+   "GUID": "f8f944f2259f3979e38f39fefb0eeed9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:17:30",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER",
+   "Determined_Location_Zip_Code": 21811
+ },
+ {
+   "GUID": "d5c50d12fb03c4da995ffb7ced3d7124",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:40:21",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 94601
+ },
+ {
+   "GUID": "f254d3c2407c8f4a21d974ba0e44a8e6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:31:03",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 95652
+ },
+ {
+   "GUID": "4303ea711d087b97d7ba9bcd9b055847",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:31:14",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "a4626b1a9b01bb77e00a7e2879a79f94be21d7529a9e81a72079c0a8124118c1",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:08:27",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 57006
+ },
+ {
+   "GUID": "b54162b066590c1771d898f0eb04128d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:20:33",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 97214
+ },
+ {
+   "GUID": "4303ea711d087b97d7ba9bcd9b055847",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:53:42",
+   "Streaming_Device_Platform": "HTML5",
+   "Determined_Location_Zip_Code": 7311
+ },
+ {
+   "GUID": "ba8be0a846b25ed6437434940f6f7e18",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:28:28",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 19010
+ },
+ {
+   "GUID": "e7d4d58b01db9bff77150c2e0462e59a",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:21:44",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 20026
+ },
+ {
+   "GUID": "2690874ddf7a3fa76891fc56047123c3",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:58:37",
+   "Streaming_Device_Platform": "PANASONIC",
+   "Determined_Location_Zip_Code": 16546
+ },
+ {
+   "GUID": "26edef735925b16b2fb41e7299e877ed",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:43:27",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 30008
+ },
+ {
+   "GUID": "ac2e32674dfbcca7471ab6b526fb1b97",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:28:05",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 2215
+ },
+ {
+   "GUID": "3adde6b4148fc83a0206cca220049788",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:37:29",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 67206
+ },
+ {
+   "GUID": "ac2e32674dfbcca7471ab6b526fb1b97",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:07:08",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 2215
+ },
+ {
+   "GUID": "0360ebd0bb2db449e123b37e858757d2",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:09:30",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 87102
+ },
+ {
+   "GUID": "0360ebd0bb2db449e123b37e858757d2",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:11:28",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 87106
+ },
+ {
+   "GUID": "ce99572b7654d3db8a4d7fee18d26f35",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:26:36",
+   "Streaming_Device_Platform": "PS3",
+   "Determined_Location_Zip_Code": 55405
+ },
+ {
+   "GUID": "ec1073daa4673344534c3b7a071bd1e2",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:09:44",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 33066
+ },
+ {
+   "GUID": "edda1aea1845107f63aa3dd7f46e6a04",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:58:11",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "1d293ef56d934619a002b44ec58255d7",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:24:48",
+   "Streaming_Device_Platform": "HTML5_SAMSUNG",
+   "Determined_Location_Zip_Code": 48170
+ },
+ {
+   "GUID": "64a03795978309b45c4b12cc585a8f2e",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:00:56",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 50310
+ },
+ {
+   "GUID": "bbf5b8e078d8aaa108de30eb4b92a116",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:35:21",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 11226
+ },
+ {
+   "GUID": "bbf5b8e078d8aaa108de30eb4b92a116",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:48:59",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 11204
+ },
+ {
+   "GUID": "72d8fbb4f754be732375ee069b8e28bd",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:51:45",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 7024
+ },
+ {
+   "GUID": "648132da60a901f364fa239ab0361805",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:07:59",
+   "Streaming_Device_Platform": "PS3",
+   "Determined_Location_Zip_Code": 19382
+ },
+ {
+   "GUID": "664dc823a08f1de3b5827a24565719a448f509c6056702766fb30edac9f0ed88c51d6db381e9c16200cb8415bb7e6d0aa284",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:06:49",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 57105
+ },
+ {
+   "GUID": "0b4bdaae384664324d391bbc63f3bd32",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:05:24",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 89555
+ },
+ {
+   "GUID": "10efb3d7ead32486f3b0ee80d15b2898",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:43:14",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 60148
+ },
+ {
+   "GUID": "648132da60a901f364fa239ab0361805",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:53:56",
+   "Streaming_Device_Platform": "PS3",
+   "Determined_Location_Zip_Code": 19382
+ },
+ {
+   "GUID": "648132da60a901f364fa239ab0361805",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:22:38",
+   "Streaming_Device_Platform": "PS3",
+   "Determined_Location_Zip_Code": 19382
+ },
+ {
+   "GUID": "648132da60a901f364fa239ab0361805",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:27:36",
+   "Streaming_Device_Platform": "PS3",
+   "Determined_Location_Zip_Code": 19382
+ },
+ {
+   "GUID": "ed1671c0487f66f922eedcd31bad8575",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:57:47",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 92128
+ },
+ {
+   "GUID": "ddebf7842c7b32d9a8d024e20d89245d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:39:34",
+   "Streaming_Device_Platform": "XBOX1",
+   "Determined_Location_Zip_Code": 33603
+ },
+ {
+   "GUID": "ed1671c0487f66f922eedcd31bad8575",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:27:07",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 92127
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:00:46",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:35:48",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:51:35",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 43016
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:30:31",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:48:42",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:56:01",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:21:03",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:51:56",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:24:30",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "aeba3054378f711014efa4c02ace730f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:26:31",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 87106
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:21:52",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "5c9638a0fb44b28f5f1b56189253b489",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:27:33",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 10020
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:21:11",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:23:51",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:47:12",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "8c7dc2d4defc04663237c46be86917b8",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:00:20",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 59626
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:52:54",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "e34eb9b99b0dd689e95d968d9bc7eba0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:07:33",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 43065
+ },
+ {
+   "GUID": "01aa2f30e4a3cce05201beeb9f0a4f75",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:49:56",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 37090
+ },
+ {
+   "GUID": "c9d956c15becc88f5445991b9b906254",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:17:52",
+   "Streaming_Device_Platform": "ANDROID_IRDETO",
+   "Determined_Location_Zip_Code": 10033
+ },
+ {
+   "GUID": "5556b6c66e9e501ad87894ad7b59117a",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:25:26",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 80019
+ },
+ {
+   "GUID": "59dca6789c0f5cc967af7b643e9272c1",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:24:11",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER",
+   "Determined_Location_Zip_Code": 35112
+ },
+ {
+   "GUID": "5556b6c66e9e501ad87894ad7b59117a",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:06:21",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 80019
+ },
+ {
+   "GUID": "1171c72d9ec2fc21cba5267b0d70aca5",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:23:00",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 8854
+ },
+ {
+   "GUID": "2d1d8acc8ee9cbea821ba162cd136c95",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 23:30:13",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 2481
+ },
+ {
+   "GUID": "df975e41779a844e44c29362aa14da9b",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:37:55",
+   "Streaming_Device_Platform": "PS3",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "1597bc75bf60704aaa4079a32755ac88",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:47:08",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 44221
+ },
+ {
+   "GUID": "f1cd041c1cfd35bc418657f1245f62f5",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-06 00:30:36",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 15666
+ },
+ {
+   "GUID": "664dc823a08f1de3b5827a24565719a448f509c6056702766fb30edac9f0ed88bb900764db88d93faefe3146554424b47967",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-06 00:24:32",
+   "Streaming_Device_Platform": "ANDROID_IRDETO",
+   "Determined_Location_Zip_Code": 85209
+ },
+ {
+   "GUID": "ad7409d2d38519ccad2b071ec0afa5bc",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:28:12",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 77004
+ },
+ {
+   "GUID": "664dc823a08f1de3b5827a24565719a448f509c6056702766fb30edac9f0ed88bb900764db88d93faefe3146554424b47967",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-06 00:03:44",
+   "Streaming_Device_Platform": "ANDROID_IRDETO",
+   "Determined_Location_Zip_Code": 85209
+ },
+ {
+   "GUID": "c26e4cb43dc990f1d09d70f2c3592a9f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 23:46:04",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 2131
+ },
+ {
+   "GUID": "cdeb4ae08ccf282aae97162d1b94f6c0",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:22:15",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 12210
+ },
+ {
+   "GUID": "0726752e0b46d017dda182ebbf58605f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:05:21",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 77301
+ },
+ {
+   "GUID": "0726752e0b46d017dda182ebbf58605f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:03:31",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 77301
+ },
+ {
+   "GUID": "0726752e0b46d017dda182ebbf58605f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:17:30",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 77356
+ },
+ {
+   "GUID": "82686a8b9f1c8ae52d1da323c7cbc532",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:51:19",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 84720
+ },
+ {
+   "GUID": "0726752e0b46d017dda182ebbf58605f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 21:57:52",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 77301
+ },
+ {
+   "GUID": "ffe7a9c5732b152235bc6100673257d3",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:10:46",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 48706
+ },
+ {
+   "GUID": "490b40efafa450ce4d4951ba05c1b143",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:28:35",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 20026
+ },
+ {
+   "GUID": "0b7f0138df15993a42e4831ef606b29e",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 22:20:33",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 11751
+ },
+ {
+   "GUID": "d245f3289ce148cb0adf23d7bdb951cf",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-05 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-05 23:41:59",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 21601
+ },
+ {
+   "GUID": "e6bb531b40b3d5c162e8c87a2029b8ae",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:07:24",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 44116
+ },
+ {
+   "GUID": "e6bb531b40b3d5c162e8c87a2029b8ae",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:58:05",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 44116
+ },
+ {
+   "GUID": "b303d04b4630283c7707181620bb0e3c",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:06:22",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 98161
+ },
+ {
+   "GUID": "e6bb531b40b3d5c162e8c87a2029b8ae",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:25:07",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 44116
+ },
+ {
+   "GUID": "1c690d31ba5e808372e5f5cd01d21eb702da0164064b5844b583bc2d8e72dbf9",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:57:53",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 94710
+ },
+ {
+   "GUID": "12b757005ff12674c3060d43813220a8",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:37:48",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 59101
+ },
+ {
+   "GUID": "d9bfdc1e02e1abdb47a5399e8f8910b7",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:57:54",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 20743
+ },
+ {
+   "GUID": "d9bfdc1e02e1abdb47a5399e8f8910b7",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:43:42",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 20743
+ },
+ {
+   "GUID": "e6bb531b40b3d5c162e8c87a2029b8ae",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:09:03",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 44116
+ },
+ {
+   "GUID": "e6bb531b40b3d5c162e8c87a2029b8ae",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:28:14",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 44116
+ },
+ {
+   "GUID": "7edad2839d11e9202608cfd826f275a3",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:48:19",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 29614
+ },
+ {
+   "GUID": "8dcb734df0435a23b6e13d29abcaabe6617c1ae319b3d92abcad2b5eab9525b6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:13:41",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 48312
+ },
+ {
+   "GUID": "8dcb734df0435a23b6e13d29abcaabe6617c1ae319b3d92abcad2b5eab9525b6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:17:01",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 48312
+ },
+ {
+   "GUID": "eb82d2373c4c0e7fcb176e5ff05c63c8",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:03:50",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 32792
+ },
+ {
+   "GUID": "fb0650230ce8f51518b30792cb35ba64",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:43:14",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 21703
+ },
+ {
+   "GUID": "ba59aaaa2d233f8b3a89e1a7327d2c60",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:17:21",
+   "Streaming_Device_Platform": "XBOX1",
+   "Determined_Location_Zip_Code": 80915
+ },
+ {
+   "GUID": "26aca5eb4ec035dbd90ade42b5f9074f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:01:05",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 49631
+ },
+ {
+   "GUID": "fb0650230ce8f51518b30792cb35ba64",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:42:11",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 21703
+ },
+ {
+   "GUID": "26aca5eb4ec035dbd90ade42b5f9074f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:57:46",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 49631
+ },
+ {
+   "GUID": "8dcb734df0435a23b6e13d29abcaabe6617c1ae319b3d92abcad2b5eab9525b6",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:58:48",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 48312
+ },
+ {
+   "GUID": "664dc823a08f1de3b5827a24565719a448f509c6056702766fb30edac9f0ed888855f7dbc944480a4e6cf2e80d3b5862575f",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:01:43",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 46322
+ },
+ {
+   "GUID": "6e0035a50cc3b0fcf9b483fd83ff852b",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:54:10",
+   "Streaming_Device_Platform": "PS3",
+   "Determined_Location_Zip_Code": 94533
+ },
+ {
+   "GUID": "93bbbc81c01d5c33b6bc3233fba1dd21",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:55:52",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 33872
+ },
+ {
+   "GUID": "b89193d739fac6f2aa83c0ed7d9849cf",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-10 00:02:00",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 82070
+ },
+ {
+   "GUID": "7e84cefcc9b12918d297779bcd068530",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:16:19",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 61912
+ },
+ {
+   "GUID": "f974dfae14b0355d2794466b46e06d9d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:07:29",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 37122
+ },
+ {
+   "GUID": "f974dfae14b0355d2794466b46e06d9d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:41:07",
+   "Streaming_Device_Platform": "ROKU",
+   "Determined_Location_Zip_Code": 37122
+ },
+ {
+   "GUID": "fb099d8fb97567bae487526cbd3c2f66",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:10:14",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 53714
+ },
+ {
+   "GUID": "7b1068ef77c036040049ef206886a808",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:36:30",
+   "Streaming_Device_Platform": "IPAD",
+   "Determined_Location_Zip_Code": 7042
+ },
+ {
+   "GUID": "551b0e712de99149d31c3d47f04c562c",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:33:33",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 6075
+ },
+ {
+   "GUID": "89a9f0a096cfc83e3670f797c36f187e",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:00:45",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 59935
+ },
+ {
+   "GUID": "89a9f0a096cfc83e3670f797c36f187e",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:36:46",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 59935
+ },
+ {
+   "GUID": "d38cd60f123f48f5c210b7fb9059ce73",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:19:55",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 89406
+ },
+ {
+   "GUID": "11ce26224dd3ae66d004668484bfa900",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:52:41",
+   "Streaming_Device_Platform": "PS4",
+   "Determined_Location_Zip_Code": 55336
+ },
+ {
+   "GUID": "d38cd60f123f48f5c210b7fb9059ce73",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:13:05",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 89406
+ },
+ {
+   "GUID": "f9b4786dba11065fc0324ecd458f598a",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:13:32",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 99208
+ },
+ {
+   "GUID": "b0a0031fcc1c01e5e86a1765bf5f6eaa",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:13:04",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 30080
+ },
+ {
+   "GUID": "f9b4786dba11065fc0324ecd458f598a",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:01:15",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 99208
+ },
+ {
+   "GUID": "498475522526dd76e5af083102c5b957",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:43:27",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 20026
+ },
+ {
+   "GUID": "efafea736529457312cdd4d88dc547fd",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:44:53",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 85282
+ },
+ {
+   "GUID": "16ea93b0c898170220d71955a415662c",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-10 00:01:40",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 38139
+ },
+ {
+   "GUID": "16ea93b0c898170220d71955a415662c",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:19:23",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 38138
+ },
+ {
+   "GUID": "302566e4aa016353e0383e0f7ea19e2d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:23:12",
+   "Streaming_Device_Platform": "APPLETV",
+   "Determined_Location_Zip_Code": 92123
+ },
+ {
+   "GUID": "302566e4aa016353e0383e0f7ea19e2d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:49:19",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 92126
+ },
+ {
+   "GUID": "f3c24aae1445958d2c3403ee93b567a4",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:18:38",
+   "Streaming_Device_Platform": "AMAZON",
+   "Determined_Location_Zip_Code": 10020
+ },
+ {
+   "GUID": "f4600e740c20af0a2001e2bdb6d1424d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:08:16",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 36107
+ },
+ {
+   "GUID": "4b476c4e75481766bad7d5e1d11a0df1",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 22:24:29",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 87106
+ },
+ {
+   "GUID": "2bb7d6cccb4166f6e1e39d48569db1a2",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:41:58",
+   "Streaming_Device_Platform": "XBOX1",
+   "Determined_Location_Zip_Code": 37921
+ },
+ {
+   "GUID": "f4600e740c20af0a2001e2bdb6d1424d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:09:39",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 36107
+ },
+ {
+   "GUID": "2d41d4bf0802aa9709ea8f043eb42c82",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:15:17",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 39402
+ },
+ {
+   "GUID": "4b476c4e75481766bad7d5e1d11a0df1",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 23:28:36",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 87106
+ },
+ {
+   "GUID": "302566e4aa016353e0383e0f7ea19e2d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:46:28",
+   "Streaming_Device_Platform": "IPHONE",
+   "Determined_Location_Zip_Code": 92126
+ },
+ {
+   "GUID": "2d41d4bf0802aa9709ea8f043eb42c82",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:58:41",
+   "Streaming_Device_Platform": "HTML5_SAMSUNG",
+   "Determined_Location_Zip_Code": 39401
+ },
+ {
+   "GUID": "2d41d4bf0802aa9709ea8f043eb42c82",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:14:14",
+   "Streaming_Device_Platform": "ANDROID",
+   "Determined_Location_Zip_Code": 39402
+ },
+ {
+   "GUID": "f4600e740c20af0a2001e2bdb6d1424d",
+   "HOME_TEAM": "ANGELS",
+   "GAME_DATE": "2016-04-09 00:00:00",
+   "REQUEST_TIMESTAMP_ET": "2016-04-09 21:09:27",
+   "Streaming_Device_Platform": "WEB_MEDIAPLAYER_5",
+   "Determined_Location_Zip_Code": 36107
+ }
+]

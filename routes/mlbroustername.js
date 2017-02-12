@@ -24,6 +24,18 @@ router.route('/')
     })
 })
 
+ router.get('/:deviceplatform/addlookup/:zipcode', (req, res) => {
+
+    console.log('req.params.deviceplatform', req.params.deviceplatform);
+    console.log('req.params.deviceplatform', req.params.zipcode);
+
+    MLBTV_Streams.find({ 'Streaming_Device_Platform': req.params.deviceplatform }, 'HOME_TEAM GAME_DATE REQUEST_TIMESTAMP_ET Streaming_Device_Platform Determined_Location_Zip_Code ', function (err, person) {
+        if (err) return handleError(err);
+        console.log(person);
+        res.status(err ? 400 : 200).send(err || person);
+    })
+  });
+
 router.route('/:id')
     .get((req, res) => {
       MLBTV_Streams.findById(req.params.id, (err, client) => {

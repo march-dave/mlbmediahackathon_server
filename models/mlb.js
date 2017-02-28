@@ -1,11 +1,13 @@
 'use strict';
 
-var mongoose = require('mongoose');
+// var mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
-var IssueImage = mongoose.model('mlbDB', {
+const IssueImage = mongoose.model('mlbDB', {
     imageurl: String,
     like: String,
     dislike: String
 });
 
-module.exports = IssueImage;
+// module.exports = IssueImage;
+export default IssueImage;

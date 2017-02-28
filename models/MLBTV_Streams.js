@@ -1,8 +1,9 @@
 'use strict';
 
-var mongoose = require('mongoose');
+// var mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
-var MLBTV_Streams = mongoose.model('MLBTV_StreamsDB', {
+const MLBTV_Streams = mongoose.model('MLBTV_StreamsDB', {
     GUID: String,
     HOME_TEAM: String,
     GAME_DATE: String,
@@ -11,7 +12,8 @@ var MLBTV_Streams = mongoose.model('MLBTV_StreamsDB', {
     Determined_Location_Zip_Code: String
 });
 
-module.exports = MLBTV_Streams;
+// module.exports = MLBTV_Streams;
+export default MLBTV_Streams;
 
 
 

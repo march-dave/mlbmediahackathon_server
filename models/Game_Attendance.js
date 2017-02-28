@@ -1,12 +1,14 @@
 'use strict';
 
-var mongoose = require('mongoose');
+// var mongoose = require('mongoose');
+import mongoose from mongoose;
 
-var Game_Attendance = mongoose.model('Game_AttendanceDB', {
+const Game_Attendance = mongoose.model('Game_AttendanceDB', {
     HOME_TEAM: String,
     AWAY_TEAM: String,
     START_TIME: String,
     ATTENDANCE: String
 });
 
-module.exports = Game_Attendance;
+// module.exports = Game_Attendance;
+export default Game_Attendance;

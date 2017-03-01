@@ -1,6 +1,5 @@
 'use strict';
 
-// var mongoose = require('mongoose');
 import mongoose from mongoose;
 
 const Game_Attendance = mongoose.model('Game_AttendanceDB', {
@@ -10,5 +9,4 @@ const Game_Attendance = mongoose.model('Game_AttendanceDB', {
     ATTENDANCE: String
 });
 
-// module.exports = Game_Attendance;
 export default Game_Attendance;

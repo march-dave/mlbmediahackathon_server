@@ -1,13 +1,9 @@
 'use strict';
 
-// var express = require('express');
-// var router = express.Router();
-
 import express from 'express';
 const router = express.Router();
 
-// var Game_Attendance = require('../models/Game_Attendance');
-var MLBTV_Streams = require('../models/MLBTV_Streams');
+import MLBTV_Streams from '../models/MLBTV_Streams'
 
 router.route('/')
     .get((req, res) => {
@@ -56,5 +52,4 @@ router.route('/:id')
         });
     })
 
-// module.exports = router;
 export default router;

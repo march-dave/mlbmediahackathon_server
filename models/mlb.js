@@ -1,6 +1,5 @@
 'use strict';
 
-// var mongoose = require('mongoose');
 import mongoose from 'mongoose';
 
 const IssueImage = mongoose.model('mlbDB', {
@@ -9,5 +8,4 @@ const IssueImage = mongoose.model('mlbDB', {
     dislike: String
 });
 
-// module.exports = IssueImage;
 export default IssueImage;
